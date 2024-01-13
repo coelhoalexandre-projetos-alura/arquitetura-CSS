@@ -1,0 +1,30 @@
+@import url('./elements/recipe.css');
+@import url('./elements/recipe-image.css');
+@import url('./elements/recipe-content.css');
+@import url('./elements/recipe-title.css');
+@import url('./elements/recipe-description.css');
+@import url('./elements/recipe-btn.css');
+
+
+.recipes {
+    background: var(--bg-recipes-color);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+@media screen and (min-width: 0) {
+    .recipes {
+        padding: 5rem 0 0 1rem;
+    }
+}
+@media screen and (min-width: 768px) {
+    .recipes {
+        padding: 5rem 0 0 2.5rem;
+    }
+}
+@media screen and (min-width: 992px) {
+    .recipes {
+        padding: 5rem 0 0 5rem;
+    }
+}

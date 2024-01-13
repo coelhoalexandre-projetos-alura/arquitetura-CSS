@@ -1,0 +1,6 @@
+.people__name {
+    color: var(--primary-color);
+    font-family: var(--cursive-font-family);
+    font-size: 2rem;
+    margin: 1rem 0;
+}

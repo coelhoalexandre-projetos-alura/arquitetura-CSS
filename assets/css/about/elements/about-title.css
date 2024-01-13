@@ -1,0 +1,15 @@
+.about__title {
+    color: var(--primary-color);
+    font-family: var(--cursive-font-family)
+}
+
+@media screen and (min-width: 0) {
+    .about__title {
+        font-size: 2rem;
+    }
+}
+@media screen and (min-width: 768px) {
+    .about__title {
+        font-size: 3.1875rem;
+    }
+}

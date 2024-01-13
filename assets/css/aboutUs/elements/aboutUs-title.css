@@ -1,0 +1,6 @@
+.about-us__title {
+    color: var(--primary-color);
+    font-family: var(--cursive-font-family);
+    font-size: 3.1875rem;
+    margin-bottom: 1rem;
+}

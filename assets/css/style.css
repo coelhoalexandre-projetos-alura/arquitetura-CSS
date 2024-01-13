@@ -1,0 +1,29 @@
+@import url('./header/header.css');
+@import url('./banner/banner.css');
+@import url('./about/about.css');
+@import url('./recipe/recipes.css');
+@import url('./aboutUs/aboutUs.css');
+@import url('./footer/footer.css');
+
+
+:root {
+    --bg-header-color: #f9f9f9;
+    --bg-recipes-color: #e5e5e5;
+    --bg-footer-color: #bfbfbf;
+
+    --header-link-color: #808080;
+    --header-link-active-color: #333333;
+    
+    --about--text-color: #595959;
+
+    --primary-color: #8D0606;
+    --primary-hover-color: #620404;
+    --secondary-color: #fdfdfd;
+
+    --main-font-family: 'Roboto', sans-serif;
+    --cursive-font-family: 'Pacifico', cursive;
+}
+
+body {
+    font-family: var(--main-font-family);
+}

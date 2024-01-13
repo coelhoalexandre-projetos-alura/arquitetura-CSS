@@ -1,0 +1,24 @@
+@import url('./elements/logo.css');
+@import url('./elements/menu-list.css');
+@import url('./elements/menu-item.css');
+@import url('./elements/menu-link.css');
+
+.header {
+    align-items: center;
+    background: var(--bg-header-color);
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (min-width: 0) {
+    .header {
+        padding: 0 1rem;
+        justify-content: center;
+    }
+}
+@media screen and (min-width: 768px) {
+    .header {
+        padding: 0 5rem;
+        justify-content: space-between;
+    }
+}

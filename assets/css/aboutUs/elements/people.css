@@ -1,0 +1,15 @@
+.container__people {
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (min-width: 0) {
+    .container__people {
+        margin-bottom: 2rem;
+    }
+}
+@media screen and (min-width: 768px) {
+    .container__people {
+        margin-bottom: 0;
+    }
+}
