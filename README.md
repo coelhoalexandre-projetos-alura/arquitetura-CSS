@@ -22,74 +22,30 @@
 
 ## Sobre o Projeto
 
-Esse projeto foi feito com a instrução de [Matheus Castiglioni](https://github.com/mahenrique94), Engenheiro de Software e Instrutor da Alura.
+Esse projeto foi feito com a instrução de [**Matheus Castiglioni**](https://github.com/mahenrique94), Engenheiro de Software e Instrutor da Alura.
 
+Enquanto o projeto é desenvolvido, o instrutor ensina um método de Arquitetura de Pastas CSS, sendo esse o seu principal objetivo no [curso](https://cursos.alura.com.br/course/arquitetura-css). 
 
+## Objetivos do Projeto
 
-## Como Executar o Projeto
-
-### Front-end
-
-1.
-2.
-3.
-
-### Back-end
-
-1.
-2.
-3.
+- Criar uma arquitetura CSS simples e robusta;
+- Simplificar a organização de pastas CSS;
+- Aprender boas práticas e metodologias CSS.
 
 ## Tecnolgias Utilizadas
 
-### Front-end
+1. HTML
+2. CSS
 
-1. 
-2.
-3.
+## Layouts
 
-### Back-end
+**Width 480px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/arquitetura-css-480px.jpg
+**Width 1920px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/arquitetura-css-1920px.jpg
 
-1.
-2.
-3.
 
-### Implementação
+## Autor
 
-1.
-2.
-3.
-
-## Processo de Desenvolvimento 
-
-### (Roteiro / Diario) de desenvolvimento
-
-- Link externo para aba projetos, ou um lugar onde esteja todo relato de desenvolvimento
-
-### Layout Mobile
-
-- Imagens
-
-### Layout Web
-
-- Imagens
-
-### Modelo Conceitual
-
-- Imagens
-
-## Contribuição
-
-- Por que contribuir?
-- Quem contribuiu?
-- Como contribui?
-
-## Autor(es)
-
-- Nome(s), redes e forma de contato. 
-- Talvez um breve resumo sobre cada um.
-
-Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. [Falar sobre meu papel no projeto, seu eu fiz tudo ou só modifiquei.
+Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. Fiz esse projeto com a orientação do instrutor [**Matheus Castiglioni**](https://github.com/mahenrique94). O design foi baseado em um arquivo do Figma mostrado pelo instrutor e quase todos os códigos usados para o desenvolvimento do projeto foram ensinados pelo mesmo.
 
 Logo abaixo estão os meus principais links, fique a vontade de acessar o que mais lhe interessar:
 
@@ -97,7 +53,8 @@ Logo abaixo estão os meus principais links, fique a vontade de acessar o que ma
 
 <div align="center">
 
-<a href = "https://www.frontendmentor.io/profile/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Frontend_Mentor-black?style=for-the-badge&logo=frontendmentor&logoColor=aqua" alt="FrontEnd Mentor Badge"> ou <a href = "https://www.frontendmentor.io/profile/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Frontend_Mentor-white?style=for-the-badge&logo=frontendmentor&logoColor=blue" alt="FrontEnd Mentor Badge">
 <a href = "https://github.com/coelhoalexandre"><img src="https://img.shields.io/badge/GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
 <a href="https://www.linkedin.com/in/-coelhoalexandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href = "mailto:alexandrecoelhocontato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-critical?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail Badge"></a>
+<a href = "https://cursos.alura.com.br/user/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Alura-0747a6?style=for-the-badge&logo=alura&logoColor=white" target="_blank" alt="Alura Badge"></a>
+<a href = "https://www.frontendmentor.io/profile/coelhoalexandre" target="_blank"><img src="https://img.shields.io/badge/Frontend_Mentor-white?style=for-the-badge&logo=frontendmentor&logoColor=blue" alt="FrontEnd Mentor Badge">
