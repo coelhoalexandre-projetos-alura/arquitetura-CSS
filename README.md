@@ -39,7 +39,7 @@ Enquanto o projeto é desenvolvido, o instrutor ensina um método de Arquitetura
 
 ## Layouts
 
-**Width 480px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/arquitetura-css-480px.jpg
+**Width 480px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/arquitetura-css-480px.jpg <br>
 **Width 1920px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/arquitetura-css-1920px.jpg
 
 
